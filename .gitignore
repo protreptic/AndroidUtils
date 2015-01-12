@@ -4,3 +4,4 @@
 /assets/*.trace.db
 **/*~
 /project.properties
+/.settings
